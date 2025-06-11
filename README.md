@@ -1,24 +1,44 @@
-# Hello, I'm Natanael!
-## Welcome to my Github profile 😉
+<h1 align="center">Hello, I'm Natanael</h1>
+<h3 align="center">Desenvolvedor FullStack | Entusiasta de Soluções Criativas</h3>
 
-## My Scholarship
+---
 
-- Currently studying Information Systems on IF Baiano!
+🌱 Atualmente estudando **React.js, Next.js, Node.js, Html e CSS, JavaScript**
 
-## My Experience
-- Working as trainee as FrontEnd Developer with React.js!
+🧠 Aprendendo mais sobre **UI/UX Design, Docker, API RESTful**
 
-## My Projects
+🔭 Trabalhando em projetos como:
 
-- [FrontEnd Lolja](https://github.com/Natanael9999/frontend-lolja).
-- [Reacher Page](https://github.com/Natanael9999/Atividade-html-css).
+- 📱 Software de controle de entrada e saída de veículos (CESA) como desenvolvedor FrontEnd.
+- 💻 Software de doação que conecta organizações e doadores como Analista de Sistemas.
 
-## My Languages and Framworks
+📫 Me encontre:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:natanael20168@gmail.com)
 
-- Java
-- Node.js
-- React.js
-- Next.js
-- SQL
-- Html
-- Css
+### 🛠️ Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight" />
+</p>
+
+### ✨ Um pouco mais sobre mim
+- Me entusiasmo com soluções criativas e com bons resultados.
+- Gosto de assuntos como ✝ Cristo 🌎 Geopolítica, 🌐 Idiomas e 🚀 Astronomia.
+- 🙏 Cristão, comprometido com valores, empatia e amor ao próximo.
+
+---
+
+<h3 align="center">Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens.</h3>
