@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Me Chamo Natanael</h1>
+<h1 align="center">Olá, Eu sou o Natanael</h1>
 <h3 align="center">Desenvolvedor FullStack | Entusiasta de Soluções Criativas</h3>
 
 ---
