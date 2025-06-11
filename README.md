@@ -3,7 +3,7 @@
 
 ---
 
-🌱 Atualmente estudando **React.js, Next.js, Node.js, Html e CSS, JS**
+🌱 Atualmente estudando **React.js, Next.js, Node.js, Html, CSS e JS**
 
 🧠 Aprendendo mais sobre **UI/UX Design, Docker, API RESTful**
 
