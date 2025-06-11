@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Natanael!
+## Welcome to my Github profile 😉
 
-<!--
-**Natanael9999/Natanael9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Scholarship
 
-Here are some ideas to get you started:
+- Currently studying Information Systems on IF Baiano!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Experience
+- Working as trainee as FrontEnd Developer with React.js!
+
+## My Projects
+
+- [FrontEnd Lolja](https://github.com/Natanael9999/frontend-lolja).
+- [Reacher Page](https://github.com/Natanael9999/Atividade-html-css).
+
+## My Languages and Framworks
+
+- Java
+- Node.js
+- React.js
+- Next.js
+- SQL
+- Html
+- Css
