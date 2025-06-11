@@ -41,4 +41,4 @@
 
 ---
 
-<h3 align="center">Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens.</h3>
+<h3 align="center">"Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens." - Colossenses 3.23</h3>
