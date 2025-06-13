@@ -37,7 +37,7 @@
 
 ### ✨ Um pouco mais sobre mim
 - Me entusiasmo com soluções criativas e com bons resultados.
-- Gosto de assuntos como ✝ Cristo, 🌎 Geopolítica, 🌐 Idiomas e 🚀 Astronomia.
+- Gosto de assuntos como ✝ Cristo, 🌎 Geografia, 🌐 Idiomas e 🚀 Astronomia.
 - 🙏 Cristão, comprometido com valores, amor a Deus e amor ao próximo.
 
 ---
