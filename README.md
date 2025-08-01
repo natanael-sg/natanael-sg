@@ -1,16 +1,16 @@
 <h1 align="center">Olá, Eu sou o Natanael</h1>
-<h3 align="center">Desenvolvedor FrontEnd | Entusiasta de Soluções Criativas</h3>
+<h3 align="center">Estudante FullStack | Entusiasta de Soluções Criativas</h3>
 
 ---
 
-🌱 Atualmente estudando **React.js, Next.js, Node.js, Html, CSS e JS**
+🌱 Atualmente estudando **React.js, Next.js, Html, CSS, JS, C# e .NET**
 
-🧠 Aprendendo mais sobre **UI/UX Design, Docker, API RESTful**
+🧠 Aprendendo mais sobre **UI/UX, Docker, API RESTful**
 
 🔭 Trabalhando em projetos como:
 
 - 📱 Software de controle de entrada e saída de veículos (CESA) como desenvolvedor FrontEnd.
-- 💻 Software de doação que conecta organizações e doadores como Analista de Sistemas.
+- 💻 Software de doação (Doe+) que conecta organizações e doadores como Analista de Sistemas.
 
 📫 Me encontre:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)  
