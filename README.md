@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Eu sou o Natanael</h1>
-<h3 align="center">Estudante FullStack | Entusiasta de Soluções Criativas</h3>
+<h3 align="center">Desenvolvedor FrontEnd | Entusiasta de Soluções Criativas</h3>
 
 ---
 
