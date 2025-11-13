@@ -3,7 +3,7 @@
 
 ---
 
-🌱 Atualmente estudando **React.js, Next.js, Html, CSS, JS, C# e .NET**
+🌱 Atualmente estudando **React.js, Next.js, Html, CSS, JS**
 
 🧠 Aprendendo mais sobre **UI/UX, Docker, API RESTful**
 
@@ -24,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt=".NET" />
 </p>
 
 ---
